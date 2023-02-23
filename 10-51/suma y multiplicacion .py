@@ -5,3 +5,6 @@ b=20
 
 # suma
 print(a+b)
+
+# multiplicacion
+print(a*b)
