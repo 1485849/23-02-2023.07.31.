@@ -1,0 +1,8 @@
+desarrolle un algoritmo en la que muestre la suma del numero actual y el anterior.
+(10):
+
+
+      0              0 suma=0
+      1              0 suma=1
+      2              1 suma=2
+      3              2 suma=3
