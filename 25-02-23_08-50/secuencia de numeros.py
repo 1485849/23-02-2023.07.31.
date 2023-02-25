@@ -7,9 +7,11 @@
 # 4 4 4 4
 # 5 5 5 5 5
 
-n = int(input("introduce los numeros: "))
-for a in range (1, n+1, 2):
-    for b in range(a, 0, -2):
-        print(b, end=" ")
-        print(" ")
+n = int(input("introduce el numero de filas"))
+for i in range(1, n+1) :
+    for j in range(1, i+1) :
+        print(i, end = " ")
+    print("")
+
+
              
