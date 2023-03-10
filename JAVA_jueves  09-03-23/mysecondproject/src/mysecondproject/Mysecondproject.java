@@ -2,20 +2,20 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package mysecondproject10.pkg03;
+package mysecondproject;
 
 /**
  *
  * @author Alumno
  */
-public class Mysecondproject1003 {
+public class Mysecondproject {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
         System.out.println("Hello again World");
+        // TODO code application logic here
     }
     
 }
